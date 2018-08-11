@@ -6,7 +6,7 @@
 #
 Name     : XStatic-jQuery
 Version  : 1.10.2.1
-Release  : 17
+Release  : 18
 URL      : http://pypi.debian.net/XStatic-jQuery/XStatic-jQuery-1.10.2.1.tar.gz
 Source0  : http://pypi.debian.net/XStatic-jQuery/XStatic-jQuery-1.10.2.1.tar.gz
 Source99 : http://pypi.debian.net/XStatic-jQuery/XStatic-jQuery-1.10.2.1.tar.gz.asc
@@ -16,10 +16,6 @@ License  : MIT
 Requires: XStatic-jQuery-python3
 Requires: XStatic-jQuery-python
 BuildRequires : buildreq-distutils3
-BuildRequires : pbr
-BuildRequires : pip
-BuildRequires : python3-dev
-BuildRequires : setuptools
 
 %description
 --------------
@@ -61,7 +57,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1532215734
+export SOURCE_DATE_EPOCH=1533945878
 python3 setup.py build -b py3
 
 %install
