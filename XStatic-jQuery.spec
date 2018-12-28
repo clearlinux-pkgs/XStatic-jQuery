@@ -6,7 +6,7 @@
 #
 Name     : XStatic-jQuery
 Version  : 1.10.2.1
-Release  : 18
+Release  : 19
 URL      : http://pypi.debian.net/XStatic-jQuery/XStatic-jQuery-1.10.2.1.tar.gz
 Source0  : http://pypi.debian.net/XStatic-jQuery/XStatic-jQuery-1.10.2.1.tar.gz
 Source99 : http://pypi.debian.net/XStatic-jQuery/XStatic-jQuery-1.10.2.1.tar.gz.asc
