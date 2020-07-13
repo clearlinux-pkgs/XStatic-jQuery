@@ -4,7 +4,7 @@
 #
 Name     : XStatic-jQuery
 Version  : 3.4.1.0
-Release  : 28
+Release  : 29
 URL      : https://files.pythonhosted.org/packages/90/1d/0fcbe1089041e7ad5904001fd6a6f89bd5c4d2763db8ef9921811fcc4386/XStatic-jQuery-3.4.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/90/1d/0fcbe1089041e7ad5904001fd6a6f89bd5c4d2763db8ef9921811fcc4386/XStatic-jQuery-3.4.1.0.tar.gz
 Summary  : jQuery 3.4.1 (XStatic packaging standard)
